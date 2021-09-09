@@ -26,7 +26,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+[NestJS](https://nestjs.com/) API with JWT Auth / CRUD with MySQL Database / TypeORM
 
 ## Installation
 
